@@ -1,0 +1,393 @@
+
+/* Class = "UILabel"; text = "Add User"; ObjectID = "1iC-IU-snF"; */
+"1iC-IU-snF.text" = "Agregar usuario";
+
+/* Class = "UITextField"; placeholder = "Search Address"; ObjectID = "2oV-yY-W6d"; */
+"2oV-yY-W6d.placeholder" = "Dirección de búsqueda";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "39C-NP-Kk8"; */
+"39C-NP-Kk8.text" = "Expresar";
+
+/* Class = "UIButton"; normalTitle = "Send a link to my email!"; ObjectID = "3A9-qa-IHw"; */
+"3A9-qa-IHw.normalTitle" = "Enviar un enlace a mi correo electrónico!";
+
+/* Class = "UILabel"; text = "Tally Record"; ObjectID = "3YG-Nx-7av"; */
+"3YG-Nx-7av.text" = "Registro de conteo";
+
+/* Class = "UILabel"; text = "-45"; ObjectID = "3dg-1U-ElQ"; */
+"3dg-1U-ElQ.text" = "-45";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "3nb-Yp-2Fo"; */
+"3nb-Yp-2Fo.text" = "Notificaciones";
+
+/* Class = "UILabel"; text = "Tally Record"; ObjectID = "4q2-Jo-eFE"; */
+"4q2-Jo-eFE.text" = "Registro de conteo";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "5Yk-xb-Qxn"; */
+"5Yk-xb-Qxn.text" = "Apellido";
+
+/* Class = "UILabel"; text = "Add User"; ObjectID = "5hG-VW-EfX"; */
+"5hG-VW-EfX.text" = "Agregar usuario";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "5uJ-FS-su9"; */
+"5uJ-FS-su9.text" = "PPolítica de privacidad";
+
+/* Class = "UILabel"; text = "Start a new Tally?"; ObjectID = "62X-HX-UyU"; */
+"62X-HX-UyU.text" = "Iniciar una nueva cuenta?";
+
+/* Class = "UILabel"; text = "685.57"; ObjectID = "64J-93-QsT"; */
+"64J-93-QsT.text" = "685.57";
+
+/* Class = "UITextField"; placeholder = "Office Phone Number"; ObjectID = "65G-Vw-rjd"; */
+"65G-Vw-rjd.placeholder" = "Número de teléfono de la oficina";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password?"; ObjectID = "71v-a8-OR2"; */
+"71v-a8-OR2.normalTitle" = "Olvidaste tu contraseña?";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "7Z1-q4-HQB"; */
+"7Z1-q4-HQB.normalTitle" = "Saltear";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "89X-oo-Wfo"; */
+"89X-oo-Wfo.normalTitle" = "Previa";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "8Mb-tV-EzM"; */
+"8Mb-tV-EzM.placeholder" = "Introducir la contraseña";
+
+/* Class = "UILabel"; text = "Please enter your information to sign up to account."; ObjectID = "8bq-H7-onM"; */
+"8bq-H7-onM.text" = "Por favor ingrese su información para registrarse en la cuenta.";
+
+/* Class = "UILabel"; text = "Jts"; ObjectID = "9KY-ck-e3G"; */
+"9KY-ck-e3G.text" = "JTS";
+
+/* Class = "UITextField"; placeholder = "Company Representative"; ObjectID = "9RZ-3v-1o1"; */
+"9RZ-3v-1o1.placeholder" = "Representante de la compañía";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "9Z9-fy-Yso"; */
+"9Z9-fy-Yso.text" = "Términos y condiciones";
+
+/* Class = "UILabel"; text = "Email "; ObjectID = "9y7-9S-qww"; */
+"9y7-9S-qww.text" = "Correo electrónico ";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "AAs-HY-vXG"; */
+"AAs-HY-vXG.normalTitle" = "Inscribirse";
+
+/* Class = "UILabel"; text = "Rate us on Apple Store"; ObjectID = "CBr-ra-Vkv"; */
+"CBr-ra-Vkv.text" = "Califícanos en Apple Store";
+
+/* Class = "UIButton"; normalTitle = "Edit a selfie"; ObjectID = "CBt-NH-i3b"; */
+"CBt-NH-i3b.normalTitle" = "editar una selfie";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Cq0-ie-kdD"; */
+"Cq0-ie-kdD.text" = "Dirección";
+
+/* Class = "UITextField"; placeholder = "Enter your Phone Nmuber"; ObjectID = "Cv8-Ad-LYf"; */
+"Cv8-Ad-LYf.placeholder" = "Ingrese su número de teléfono";
+
+/* Class = "UILabel"; text = "Tally Record"; ObjectID = "DGN-mT-x6E"; */
+"DGN-mT-x6E.text" = "Registro de conteo";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "Ddq-sI-Io8"; */
+"Ddq-sI-Io8.normalTitle" = "Cambia la contraseña";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "EOK-f8-NgL"; */
+"EOK-f8-NgL.placeholder" = "Ingrese correo electrónico";
+
+/* Class = "UILabel"; text = "Version  1.0"; ObjectID = "Et6-Ws-Dsk"; */
+"Et6-Ws-Dsk.text" = "Versión 1.0";
+
+/* Class = "UILabel"; text = "Well Number"; ObjectID = "F0N-9H-bWN"; */
+"F0N-9H-bWN.text" = "número de pozo";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "FMo-XT-v5O"; */
+"FMo-XT-v5O.text" = "Versión 1.0";
+
+/* Class = "UITextField"; placeholder = "Enter confirm password"; ObjectID = "Fmw-OF-aFQ"; */
+"Fmw-OF-aFQ.placeholder" = "Ingrese confirmar contraseña";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "GIe-if-pnC"; */
+"GIe-if-pnC.text" = "Versión 1.0";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "GOa-1o-2wM"; */
+"GOa-1o-2wM.normalTitle" = "Próxima";
+
+/* Class = "UILabel"; text = "98"; ObjectID = "GXs-ZT-Bgt"; */
+"GXs-ZT-Bgt.text" = "98";
+
+/* Class = "UILabel"; text = "Create your account!"; ObjectID = "Gko-0f-qtm"; */
+"Gko-0f-qtm.text" = "Crea tu cuenta!";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "HOh-Wg-tSN"; */
+"HOh-Wg-tSN.text" = "Correo electrónico";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "IKG-BE-0WI"; */
+"IKG-BE-0WI.text" = "Editar perfil";
+
+/* Class = "UIButton"; normalTitle = "I don’t have an account →"; ObjectID = "IMp-eZ-T1F"; */
+"IMp-eZ-T1F.normalTitle" = "no tengo cuenta →";
+
+/* Class = "UILabel"; text = "Company Profile"; ObjectID = "Ial-f0-k0b"; */
+"Ial-f0-k0b.text" = "Perfil de la empresa";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Ihe-1v-D0d"; */
+"Ihe-1v-D0d.text" = "Correo electrónico";
+
+/* Class = "UILabel"; text = "Please enter a valid email to reset your password"; ObjectID = "Iuh-yX-XAR"; */
+"Iuh-yX-XAR.text" = "Por favor, introduzca un correo electrónico válido para restablecer su contraseña";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "Jin-wr-LfE"; */
+"Jin-wr-LfE.text" = "contraseña actual";
+
+/* Class = "UILabel"; text = "685.57"; ObjectID = "K1a-s8-CAo"; */
+"K1a-s8-CAo.text" = "685.57";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KLz-GN-Ue1"; */
+"KLz-GN-Ue1.placeholder" = "Correo electrónico";
+
+/* Class = "UITextField"; placeholder = "Well Number"; ObjectID = "KiL-9N-vFn"; */
+"KiL-9N-vFn.placeholder" = "número de pozo";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "L2t-c6-6fF"; */
+"L2t-c6-6fF.placeholder" = "Expresar";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "LBW-xW-AH2"; */
+"LBW-xW-AH2.normalTitle" = "Acceso";
+
+/* Class = "UIButton"; normalTitle = "I already have an account →"; ObjectID = "LbG-FF-Wl1"; */
+"LbG-FF-Wl1.normalTitle" = "ya tengo una cuenta →";
+
+/* Class = "UITextField"; placeholder = "Mobile Phone Number"; ObjectID = "Lx9-AI-BrL"; */
+"Lx9-AI-BrL.placeholder" = "Número de teléfono móvil";
+
+/* Class = "UITextField"; placeholder = "Company Name"; ObjectID = "M3g-OA-8Ah"; */
+"M3g-OA-8Ah.placeholder" = "nombre de empresa";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "M5v-bA-aqT"; */
+"M5v-bA-aqT.text" = "Nueva contraseña";
+
+/* Class = "UITextField"; placeholder = "confirm password"; ObjectID = "Mho-Lj-tpa"; */
+"Mho-Lj-tpa.placeholder" = "confirmar Contraseña";
+
+/* Class = "UITextField"; placeholder = "Enter  password"; ObjectID = "MpC-jr-wee"; */
+"MpC-jr-wee.placeholder" = "Introducir la contraseña";
+
+/* Class = "UITextField"; placeholder = "current  password"; ObjectID = "N5g-wD-u45"; */
+"N5g-wD-u45.placeholder" = "contraseña actual";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "NAi-pt-Ppk"; */
+"NAi-pt-Ppk.text" = "Cambia la contraseña";
+
+/* Class = "UIButton"; normalTitle = "Print / Export"; ObjectID = "Nc3-TM-HP4"; */
+"Nc3-TM-HP4.normalTitle" = "Imprimir / Exportar";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Nwk-VR-stc"; */
+"Nwk-VR-stc.text" = "Ajustes";
+
+/* Class = "UILabel"; text = "Length"; ObjectID = "PHe-FH-t7j"; */
+"PHe-FH-t7j.text" = "Larga";
+
+/* Class = "UITextField"; placeholder = "Lease"; ObjectID = "RMa-pv-k2L"; */
+"RMa-pv-k2L.placeholder" = "Arrendar";
+
+/* Class = "UITextField"; placeholder = "new password"; ObjectID = "SHf-f3-3G9"; */
+"SHf-f3-3G9.placeholder" = "nueva contraseña";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "SMs-KH-Yms"; */
+"SMs-KH-Yms.placeholder" = "Ingrese correo electrónico";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "TaM-3q-aIi"; */
+"TaM-3q-aIi.placeholder" = "Dirección";
+
+/* Class = "UILabel"; text = "Total Run"; ObjectID = "U9i-A0-PFE"; */
+"U9i-A0-PFE.text" = "Ejecución total";
+
+/* Class = "UITextField"; placeholder = "Company Name"; ObjectID = "VTl-ns-fXe"; */
+"VTl-ns-fXe.placeholder" = "nombre de empresa";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "WBq-Gr-jOD"; */
+"WBq-Gr-jOD.text" = "Correo electrónico";
+
+/* Class = "UILabel"; text = "County"; ObjectID = "WGC-Nx-qSb"; */
+"WGC-Nx-qSb.text" = "Condado";
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "WpD-0Z-sI4"; */
+"WpD-0Z-sI4.text" = "desconectar";
+
+/* Class = "UILabel"; text = "Start a new tally with ease "; ObjectID = "X8u-3u-uHf"; */
+"X8u-3u-uHf.text" = "Comience una nueva cuenta con facilidad ";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "XHC-JA-lYy"; */
+"XHC-JA-lYy.text" = "Clave";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "XNP-lZ-FOj"; */
+"XNP-lZ-FOj.placeholder" = "Ingrese correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "TOTAL"; ObjectID = "YdI-eq-fqO"; */
+"YdI-eq-fqO.normalTitle" = "TOTAL";
+
+/* Class = "UILabel"; text = "Sign In to your account!"; ObjectID = "Ypc-YM-FgC"; */
+"Ypc-YM-FgC.text" = "Iniciar sesión en su cuenta!";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "ZNu-xS-tKM"; */
+"ZNu-xS-tKM.normalTitle" = "Fecha";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "aGm-0x-Jdi"; */
+"aGm-0x-Jdi.placeholder" = "Ciudad";
+
+/* Class = "UILabel"; text = "Out"; ObjectID = "bG8-Rg-LDF"; */
+"bG8-Rg-LDF.text" = "Afuera";
+
+/* Class = "UILabel"; text = "Tally record"; ObjectID = "cWg-qt-vtR"; */
+"cWg-qt-vtR.text" = "registro de conteo";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "crg-d3-prn"; */
+"crg-d3-prn.text" = "Menú";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "dLU-Lg-gdl"; */
+"dLU-Lg-gdl.text" = "Clave";
+
+/* Class = "UITextField"; placeholder = "Total Jts"; ObjectID = "dQ9-pL-QHa"; */
+"dQ9-pL-QHa.placeholder" = "Jt totales";
+
+/* Class = "UITextField"; placeholder = "Enter  password"; ObjectID = "dld-Eo-7yq"; */
+"dld-Eo-7yq.placeholder" = "Introducir la contraseña";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "dnn-js-S9u"; */
+"dnn-js-S9u.placeholder" = "Introduce tu correo electrónico";
+
+/* Class = "UILabel"; text = "32.65"; ObjectID = "eRD-9D-3wN"; */
+"eRD-9D-3wN.text" = "32.65";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "ecD-PF-mIA"; */
+"ecD-PF-mIA.normalTitle" = "Actualizar";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "ehY-Ss-X7D"; */
+"ehY-Ss-X7D.text" = "confirmar Contraseña";
+
+/* Class = "UITextField"; placeholder = "Enter your first name"; ObjectID = "f5a-ao-zEB"; */
+"f5a-ao-zEB.placeholder" = "Ponga su primer nombre";
+
+/* Class = "UILabel"; text = "For $29.99"; ObjectID = "fbb-rT-Mgh"; */
+"fbb-rT-Mgh.text" = "Por $29.99";
+
+/* Class = "UILabel"; text = "Well Number"; ObjectID = "g1E-8A-0h3"; */
+"g1E-8A-0h3.text" = "número de pozo";
+
+/* Class = "UITextField"; placeholder = "KB"; ObjectID = "gQv-uF-3sG"; */
+"gQv-uF-3sG.placeholder" = "KB";
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "hn4-Cr-xvJ"; */
+"hn4-Cr-xvJ.normalTitle" = "AGREGAR";
+
+/* Class = "UILabel"; text = "Email "; ObjectID = "iEh-hL-gww"; */
+"iEh-hL-gww.text" = "Correo electrónico ";
+
+/* Class = "UILabel"; text = "DD/MM/YYYY"; ObjectID = "iun-Xt-hl1"; */
+"iun-Xt-hl1.text" = "DD/MM/AAAA";
+
+/* Class = "UITextField"; placeholder = "County"; ObjectID = "j4Q-k8-1KK"; */
+"j4Q-k8-1KK.placeholder" = "Condado";
+
+/* Class = "UIButton"; normalTitle = "Add User"; ObjectID = "kF4-A4-are"; */
+"kF4-A4-are.normalTitle" = "Agregar usuario";
+
+/* Class = "UILabel"; text = "Tally Records"; ObjectID = "ka0-as-b8w"; */
+"ka0-as-b8w.text" = "Registros de conteo";
+
+/* Class = "UILabel"; text = "Forgot your password?"; ObjectID = "m1k-0v-Ygf"; */
+"m1k-0v-Ygf.text" = "Olvidaste tu contraseña?";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "mLP-Kb-FjL"; */
+"mLP-Kb-FjL.text" = "Expiración";
+
+/* Class = "UILabel"; text = "Edit Entry"; ObjectID = "mbN-Ea-4LE"; */
+"mbN-Ea-4LE.text" = "Editar entrada";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "nPX-Ww-jyK"; */
+"nPX-Ww-jyK.text" = "Primer nombre";
+
+/* Class = "UILabel"; text = "Well Name"; ObjectID = "nUt-Im-fo6"; */
+"nUt-Im-fo6.text" = "Nombre del pozo";
+
+/* Class = "UIButton"; normalTitle = "submit"; ObjectID = "o6N-yt-uqv"; */
+"o6N-yt-uqv.normalTitle" = "entregar";
+
+/* Class = "UIButton"; normalTitle = "Subscription"; ObjectID = "oMQ-1f-1ir"; */
+"oMQ-1f-1ir.normalTitle" = "Suscripción";
+
+/* Class = "UITextField"; placeholder = "Enter your last name"; ObjectID = "p5Z-cs-pOk"; */
+"p5Z-cs-pOk.placeholder" = "Ingresa tu apellido";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "pCS-WD-Shp"; */
+"pCS-WD-Shp.text" = "Empresa";
+
+/* Class = "UITextField"; placeholder = "Length"; ObjectID = "pEK-35-l0t"; */
+"pEK-35-l0t.placeholder" = "LargaSearch ";
+
+/* Class = "UITextField"; placeholder = "Well Number"; ObjectID = "pdg-VG-ucs"; */
+"pdg-VG-ucs.placeholder" = "número de pozo";
+
+/* Class = "UILabel"; text = "Sign in with Facebook"; ObjectID = "pjY-un-j90"; */
+"pjY-un-j90.text" = "Iniciar sesión usando Facebook";
+
+/* Class = "UILabel"; text = "DD/MM/YYYY"; ObjectID = "qbX-bL-D1m"; */
+"qbX-bL-D1m.text" = "DD/MM/AAAA";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "qhO-J4-UPs"; */
+"qhO-J4-UPs.placeholder" = "Dirección";
+
+/* Class = "UILabel"; text = "Sign in with Google"; ObjectID = "rgE-Vb-GhE"; */
+"rgE-Vb-GhE.text" = "Inicia sesión con Google";
+
+/* Class = "UITextField"; placeholder = "County"; ObjectID = "s6A-dW-Cga"; */
+"s6A-dW-Cga.placeholder" = "Condado";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "suo-no-AvN"; */
+"suo-no-AvN.placeholder" = "Expresar";
+
+/* Class = "UILabel"; text = "New Tally"; ObjectID = "tEd-41-kBW"; */
+"tEd-41-kBW.text" = "Nuevo conteo";
+
+/* Class = "UILabel"; text = "Add User"; ObjectID = "tiH-Os-Phm"; */
+"tiH-Os-Phm.text" = "Agregar usuario";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "uNh-HM-GtH"; */
+"uNh-HM-GtH.normalTitle" = "Acceso";
+
+/* Class = "UITextField"; placeholder = "BHA"; ObjectID = "uZJ-py-ktZ"; */
+"uZJ-py-ktZ.placeholder" = "BHA";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "us6-7K-62j"; */
+"us6-7K-62j.text" = "Número de teléfono";
+
+/* Class = "UILabel"; text = "Tally Record"; ObjectID = "vBQ-Cc-zrw"; */
+"vBQ-Cc-zrw.text" = "Registro de conteo";
+
+/* Class = "UITextField"; placeholder = "Enter Length"; ObjectID = "vde-Nh-I00"; */
+"vde-Nh-I00.placeholder" = "Introducir longitud";
+
+/* Class = "UILabel"; text = "Please enter email address to login to account."; ObjectID = "vlm-wC-pEA"; */
+"vlm-wC-pEA.text" = "Por favor, introduzca la dirección de correo electrónico para iniciar sesión en la cuenta.";
+
+/* Class = "UILabel"; text = "Sign in with Apple"; ObjectID = "wWd-Hy-By9"; */
+"wWd-Hy-By9.text" = "Iniciar sesión con Apple";
+
+/* Class = "UILabel"; text = "Company Profile"; ObjectID = "xIA-4V-HCs"; */
+"xIA-4V-HCs.text" = "Perfil de la empresa";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "xYv-pC-Y8I"; */
+"xYv-pC-Y8I.text" = "Clave";
+
+/* Class = "UILabel"; text = "45"; ObjectID = "xny-V0-RjH"; */
+"xny-V0-RjH.text" = "45";
+
+/* Class = "UILabel"; text = "Confirm password"; ObjectID = "xwd-b7-czl"; */
+"xwd-b7-czl.text" = "Confirmar contraseña";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "xzs-wn-MC5"; */
+"xzs-wn-MC5.normalTitle" = "Actualizar";
+
+/* Class = "UILabel"; text = "DD/MM/YYYY"; ObjectID = "yHH-VH-NZi"; */
+"yHH-VH-NZi.text" = "DD/MM/AAAA";
+
+/* Class = "UILabel"; text = "Page 3 of 5"; ObjectID = "yJp-Eu-mjC"; */
+"yJp-Eu-mjC.text" = "Página 3 de 5";

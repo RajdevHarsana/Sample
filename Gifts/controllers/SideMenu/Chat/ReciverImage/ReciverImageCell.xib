@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="300" id="GU2-1n-PNW" customClass="ReciverImageCell" customModule="From_Me_2_U" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="293" height="300"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="GU2-1n-PNW" id="MJb-q1-DmQ">
+                <rect key="frame" x="0.0" y="0.0" width="293" height="300"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hSZ-Od-HOa">
+                        <rect key="frame" x="20" y="0.0" width="250" height="284"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rGo-AG-oPA">
+                                <rect key="frame" x="5" y="5" width="240" height="274"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eru-hO-TpH">
+                                <rect key="frame" x="5" y="5" width="240" height="274"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" name="color_whiteBackground"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="rGo-AG-oPA" secondAttribute="trailing" constant="5" id="61L-20-FlM"/>
+                            <constraint firstItem="eru-hO-TpH" firstAttribute="bottom" secondItem="rGo-AG-oPA" secondAttribute="bottom" id="DqD-tc-aTb"/>
+                            <constraint firstItem="eru-hO-TpH" firstAttribute="trailing" secondItem="rGo-AG-oPA" secondAttribute="trailing" id="Nma-du-IQi"/>
+                            <constraint firstAttribute="bottom" secondItem="rGo-AG-oPA" secondAttribute="bottom" constant="5" id="U1Y-2f-B9h"/>
+                            <constraint firstItem="rGo-AG-oPA" firstAttribute="top" secondItem="hSZ-Od-HOa" secondAttribute="top" constant="5" id="Zd4-Sy-cTd"/>
+                            <constraint firstAttribute="width" constant="250" id="a0Z-GG-xCb"/>
+                            <constraint firstItem="rGo-AG-oPA" firstAttribute="leading" secondItem="hSZ-Od-HOa" secondAttribute="leading" constant="5" id="fkr-cW-tzG"/>
+                            <constraint firstItem="eru-hO-TpH" firstAttribute="top" secondItem="rGo-AG-oPA" secondAttribute="top" id="lan-PE-Den"/>
+                            <constraint firstAttribute="height" constant="284" id="t3k-gg-ESO"/>
+                            <constraint firstItem="eru-hO-TpH" firstAttribute="leading" secondItem="rGo-AG-oPA" secondAttribute="leading" id="uiZ-79-Zie"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="hSZ-Od-HOa" secondAttribute="bottom" constant="16" id="P7K-12-Dxe"/>
+                    <constraint firstItem="hSZ-Od-HOa" firstAttribute="top" secondItem="MJb-q1-DmQ" secondAttribute="top" id="Wdx-K4-hnN"/>
+                    <constraint firstItem="hSZ-Od-HOa" firstAttribute="leading" secondItem="MJb-q1-DmQ" secondAttribute="leading" constant="20" id="dtO-B9-cue"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="Ule-vS-TUw"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="imageBtn" destination="eru-hO-TpH" id="0AV-DN-3Q6"/>
+                <outlet property="postImg" destination="rGo-AG-oPA" id="dNH-31-4p3"/>
+                <outlet property="view_Msg" destination="hSZ-Od-HOa" id="yJr-eJ-2ck"/>
+            </connections>
+            <point key="canvasLocation" x="112.31884057971016" y="120.20089285714285"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <namedColor name="color_whiteBackground">
+            <color red="0.32899999618530273" green="0.32400000095367432" blue="0.4779999852180481" alpha="0.33000001311302185" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
